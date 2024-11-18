@@ -1,0 +1,1 @@
+•	A project we created in second year as our final assessment. XYZ Accommodation Ltd are currently available rental accommodation in Ireland and have requested you to develop a new rental accommodation statistic application for them. This program will create a database which will store the details of all the accommodation available in Ireland. The language used here was C. 
