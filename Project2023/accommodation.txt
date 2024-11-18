@@ -1,0 +1,23 @@
+ACCOMMODATION REPORT
+
+-------------------------------------------
+
+Property ID: 1
+Owner Name: david oconnor
+Year Built: 1956
+Email Address: davidoconnor@yahoo.ie
+Number of Rooms: 1 Bedroom
+Monthly Rental Price: €560.00
+Pets Allowed: Yes
+Average Duration of Stay: One day
+Accommodation Type: 1 Bedroom
+-------------------------------------------
+
+Accommodation Statistics:
+A. Percentage of Single Room Accommodation: 100.00%
+B. Percentage of Apartment Accommodation: 0.00%
+C. Percentage of Bungalow Accommodation: 0.00%
+D. Percentage of Two Story Accommodation: 0.00%
+E. Maximum Rental Amount: €560.00
+F. Minimum Rental Amount: €560.00
+G. Average Rental Amount: €560.00
